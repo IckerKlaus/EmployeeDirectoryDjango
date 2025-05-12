@@ -61,6 +61,8 @@ python manage.py runserver
 http://127.0.0.1:8000/
 ```
 
+---
+
 ## 🗒️ Notes
 To access the Django admin, create a superuser:
 ```
