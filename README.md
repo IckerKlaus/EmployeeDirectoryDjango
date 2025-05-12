@@ -1,4 +1,4 @@
-# 👨‍💻 Basic Employee Website
+# 👨‍💻 Basic Directory Website
 
 A basic web application built with Django that allows you to manage employee data. It demonstrates how to create, read, update, and delete (CRUD) employee records using Django’s Model-View-Template (MVT) architecture.
 
